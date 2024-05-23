@@ -18,7 +18,6 @@ from contextlib import redirect_stdout
 from io import StringIO
 import numpy as np
 
-google_api_key = 'AIzaSyBP40MHpvgCE_ktsiUSf2tEOEyqKeQJ6nI'
 PROJECT = 'GARLOCK'
 CHUNK_SIZE = 3000
 CHUNK_OVERLAP = 100
